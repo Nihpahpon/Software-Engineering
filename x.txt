@@ -1,8 +1,8 @@
 นางสาวนิภาพร  อุดแตน  รหัสนิสิต 62020662
 นางสาวพรสินี  คำสิงห์  รหัสนิสิต  62020684
 
-a = int(input('Please input number 1 : '))
-b = int(input('Please input number 2 : '))
+a = int(input('input number 1 : '))
+b = int(input('input number 2 : '))
 
-a + b = c
+a - b = c
 print(c)
