@@ -1,0 +1,8 @@
+นางสาวนิภาพร  อุดแตน  รหัสนิสิต 62020662
+นางสาวพรสินี  คำสิงห์  รหัสนิสิต  62020684
+
+c = int(input('Please input number 1 : '))
+d = int(input('Please input number 2 : '))
+
+c - d = x
+print(x)
